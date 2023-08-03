@@ -1,0 +1,1851 @@
+Date, Avg.Temp(°F),StateName
+2001,49.5,Alabama
+2002,51.0,Alabama
+2003,63.5,Alabama
+2004,62.0,Alabama
+2005,68.9,Alabama
+2006,76.9,Alabama
+2007,80.9,Alabama
+2008,80.2,Alabama
+2009,74.3,Alabama
+2010,66.9,Alabama
+2011,58.4,Alabama
+2012,45.9,Alabama
+2101,46.6,Alabama
+2102,46.7,Alabama
+2103,59.6,Alabama
+2104,61.6,Alabama
+2105,69.4,Alabama
+2106,77.0,Alabama
+2107,79.3,Alabama
+2108,80.0,Alabama
+2109,73.9,Alabama
+2110,67.3,Alabama
+2111,52.2,Alabama
+2112,56.8,Alabama
+2201,44.0,Alabama
+2202,50.1,Alabama
+2203,57.4,Alabama
+2204,62.5,Alabama
+2205,73.5,Alabama
+2206,80.2,Alabama
+2207,81.6,Alabama
+2208,79.3,Alabama
+2209,73.8,Alabama
+2210,61.2,Alabama
+2211,55.3,Alabama
+2212,49.0,Alabama
+2301,51.4,Alabama
+2001,-6.4,Alaska
+2002,1.5,Alaska
+2003,12.0,Alaska
+2004,27.5,Alaska
+2005,43.3,Alaska
+2006,50.5,Alaska
+2007,53.2,Alaska
+2008,52.1,Alaska
+2009,42.0,Alaska
+2010,28.9,Alaska
+2011,14.5,Alaska
+2012,10.6,Alaska
+2101,10.6,Alaska
+2102,1.0,Alaska
+2103,9.1,Alaska
+2104,23.9,Alaska
+2105,40.3,Alaska
+2106,50.9,Alaska
+2107,53.9,Alaska
+2108,49.4,Alaska
+2109,39.4,Alaska
+2110,27.9,Alaska
+2111,4.6,Alaska
+2112,6.8,Alaska
+2201,3.6,Alaska
+2202,8.6,Alaska
+2203,16.7,Alaska
+2204,25.1,Alaska
+2205,39.9,Alaska
+2206,52.7,Alaska
+2207,53.4,Alaska
+2208,50.1,Alaska
+2209,42.9,Alaska
+2210,28.6,Alaska
+2211,16.4,Alaska
+2212,7.4,Alaska
+2301,10.9,Alaska
+2001,43.7,Arizona
+2002,45.9,Arizona
+2003,51.0,Arizona
+2004,59.3,Arizona
+2005,70.5,Arizona
+2006,76.8,Arizona
+2007,82.8,Arizona
+2008,84.1,Arizona
+2009,75.6,Arizona
+2010,66.2,Arizona
+2011,53.5,Arizona
+2012,42.0,Arizona
+2101,42.6,Arizona
+2102,46.5,Arizona
+2103,49.4,Arizona
+2104,61.2,Arizona
+2105,67.9,Arizona
+2106,80.6,Arizona
+2107,81.5,Arizona
+2108,79.5,Arizona
+2109,74.8,Arizona
+2110,59.9,Arizona
+2111,55.8,Arizona
+2112,45.6,Arizona
+2201,43.6,Arizona
+2202,44.2,Arizona
+2203,51.8,Arizona
+2204,60.8,Arizona
+2205,68.6,Arizona
+2206,78.5,Arizona
+2207,82.0,Arizona
+2208,78.6,Arizona
+2209,75.5,Arizona
+2210,61.6,Arizona
+2211,46.0,Arizona
+2212,43.0,Arizona
+2301,40.5,Arizona
+2001,43.9,Arkansas
+2002,44.5,Arkansas
+2003,56.5,Arkansas
+2004,58.8,Arkansas
+2005,66.8,Arkansas
+2006,76.4,Arkansas
+2007,81.3,Arkansas
+2008,77.8,Arkansas
+2009,71.8,Arkansas
+2010,59.4,Arkansas
+2011,54.0,Arkansas
+2012,42.6,Arkansas
+2101,41.4,Arkansas
+2102,34.8,Arkansas
+2103,55.2,Arkansas
+2104,58.4,Arkansas
+2105,66.8,Arkansas
+2106,76.9,Arkansas
+2107,79.3,Arkansas
+2108,80.7,Arkansas
+2109,74.3,Arkansas
+2110,65.5,Arkansas
+2111,49.4,Arkansas
+2112,53.4,Arkansas
+2201,38.7,Arkansas
+2202,42.1,Arkansas
+2203,52.0,Arkansas
+2204,59.8,Arkansas
+2205,70.9,Arkansas
+2206,78.1,Arkansas
+2207,84.1,Arkansas
+2208,79.4,Arkansas
+2209,73.8,Arkansas
+2210,61.2,Arkansas
+2211,49.8,Arkansas
+2212,43.2,Arkansas
+2301,46.6,Arkansas
+2001,45.3,California
+2002,49.2,California
+2003,48.0,California
+2004,56.6,California
+2005,64.6,California
+2006,70.4,California
+2007,76.6,California
+2008,78.9,California
+2009,74.0,California
+2010,66.2,California
+2011,50.9,California
+2012,45.5,California
+2101,45.5,California
+2102,47.4,California
+2103,48.2,California
+2104,58.2,California
+2105,64.5,California
+2106,74.9,California
+2107,79.8,California
+2108,77.0,California
+2109,72.2,California
+2110,58.2,California
+2111,54.8,California
+2112,43.5,California
+2201,46.5,California
+2202,48.0,California
+2203,53.1,California
+2204,55.8,California
+2205,62.3,California
+2206,72.0,California
+2207,77.6,California
+2208,78.3,California
+2209,73.5,California
+2210,64.1,California
+2211,46.6,California
+2212,43.1,California
+2301,42.7,California
+2001,27.4,Colorado
+2002,26.4,Colorado
+2003,38.8,Colorado
+2004,43.4,Colorado
+2005,55.6,Colorado
+2006,65.0,Colorado
+2007,69.3,Colorado
+2008,70.1,Colorado
+2009,58.8,Colorado
+2010,47.1,Colorado
+2011,38.5,Colorado
+2012,26.7,Colorado
+2101,26.7,Colorado
+2102,24.8,Colorado
+2103,35.8,Colorado
+2104,43.1,Colorado
+2105,52.9,Colorado
+2106,65.7,Colorado
+2107,70.0,Colorado
+2108,67.4,Colorado
+2109,62.4,Colorado
+2110,47.8,Colorado
+2111,40.7,Colorado
+2112,32.4,Colorado
+2201,26.5,Colorado
+2202,25.0,Colorado
+2203,35.0,Colorado
+2204,43.7,Colorado
+2205,53.3,Colorado
+2206,64.3,Colorado
+2207,70.3,Colorado
+2208,67.8,Colorado
+2209,62.5,Colorado
+2210,47.6,Colorado
+2211,31.3,Colorado
+2212,25.7,Colorado
+2301,24.2,Colorado
+2001,33.0,Connecticut
+2002,33.9,Connecticut
+2003,41.4,Connecticut
+2004,44.4,Connecticut
+2005,56.4,Connecticut
+2006,68.4,Connecticut
+2007,75.6,Connecticut
+2008,72.6,Connecticut
+2009,63.5,Connecticut
+2010,53.2,Connecticut
+2011,45.4,Connecticut
+2012,33.6,Connecticut
+2101,29.2,Connecticut
+2102,28.5,Connecticut
+2103,39.3,Connecticut
+2104,48.7,Connecticut
+2105,57.8,Connecticut
+2106,69.2,Connecticut
+2107,71.1,Connecticut
+2108,72.8,Connecticut
+2109,65.2,Connecticut
+2110,56.8,Connecticut
+2111,41.0,Connecticut
+2112,37.0,Connecticut
+2201,24.2,Connecticut
+2202,30.6,Connecticut
+2203,38.9,Connecticut
+2204,47.5,Connecticut
+2205,60.7,Connecticut
+2206,66.2,Connecticut
+2207,74.1,Connecticut
+2208,74.4,Connecticut
+2209,63.5,Connecticut
+2210,52.3,Connecticut
+2211,45.0,Connecticut
+2212,33.4,Connecticut
+2301,37.1,Connecticut
+2001,40.2,Delaware
+2002,41.9,Delaware
+2003,49.5,Delaware
+2004,51.8,Delaware
+2005,60.6,Delaware
+2006,73.7,Delaware
+2007,80.7,Delaware
+2008,77.2,Delaware
+2009,68.7,Delaware
+2010,60.0,Delaware
+2011,51.8,Delaware
+2012,39.7,Delaware
+2101,36.2,Delaware
+2102,35.6,Delaware
+2103,47.6,Delaware
+2104,55.3,Delaware
+2105,63.3,Delaware
+2106,73.8,Delaware
+2107,77.7,Delaware
+2108,76.9,Delaware
+2109,70.1,Delaware
+2110,63.2,Delaware
+2111,45.1,Delaware
+2112,44.0,Delaware
+2201,31.6,Delaware
+2202,39.1,Delaware
+2203,47.0,Delaware
+2204,53.2,Delaware
+2205,64.8,Delaware
+2206,72.4,Delaware
+2207,78.7,Delaware
+2208,78.0,Delaware
+2209,69.1,Delaware
+2210,55.6,Delaware
+2211,49.8,Delaware
+2212,37.7,Delaware
+2301,43.5,Delaware
+2001,42.4,District of Columbia
+2002,43.8,District of Columbia
+2003,53.2,District of Columbia
+2004,55.3,District of Columbia
+2005,63.8,District of Columbia
+2006,77.0,District of Columbia
+2007,83.9,District of Columbia
+2008,79.6,District of Columbia
+2009,70.2,District of Columbia
+2010,61.9,District of Columbia
+2011,54.3,District of Columbia
+2012,41.4,District of Columbia
+2101,38.6,District of Columbia
+2102,37.8,District of Columbia
+2103,51.2,District of Columbia
+2104,58.2,District of Columbia
+2105,66.1,District of Columbia
+2106,76.6,District of Columbia
+2107,80.9,District of Columbia
+2108,80.9,District of Columbia
+2109,73.2,District of Columbia
+2110,66.3,District of Columbia
+2111,47.9,District of Columbia
+2112,47.6,District of Columbia
+2201,34.6,District of Columbia
+2202,42.6,District of Columbia
+2203,50.4,District of Columbia
+2204,56.9,District of Columbia
+2205,67.8,District of Columbia
+2206,76.0,District of Columbia
+2207,81.1,District of Columbia
+2208,80.4,District of Columbia
+2209,72.7,District of Columbia
+2210,58.2,District of Columbia
+2211,52.6,District of Columbia
+2212,40.1,District of Columbia
+2301,45.2,District of Columbia
+2001,61.8,Florida
+2002,63.6,Florida
+2003,71.0,Florida
+2004,73.1,Florida
+2005,75.8,Florida
+2006,81.0,Florida
+2007,83.0,Florida
+2008,83.2,Florida
+2009,80.6,Florida
+2010,77.2,Florida
+2011,70.8,Florida
+2012,57.6,Florida
+2101,58.7,Florida
+2102,63.7,Florida
+2103,67.8,Florida
+2104,69.9,Florida
+2105,76.1,Florida
+2106,80.7,Florida
+2107,81.9,Florida
+2108,82.6,Florida
+2109,79.7,Florida
+2110,75.3,Florida
+2111,63.4,Florida
+2112,66.5,Florida
+2201,57.6,Florida
+2202,63.0,Florida
+2203,68.4,Florida
+2204,71.8,Florida
+2205,77.6,Florida
+2206,81.9,Florida
+2207,83.0,Florida
+2208,82.8,Florida
+2209,79.9,Florida
+2210,71.8,Florida
+2211,69.7,Florida
+2212,61.4,Florida
+2301,62.1,Florida
+2001,51.4,Georgia
+2002,51.9,Georgia
+2003,63.1,Georgia
+2004,63.1,Georgia
+2005,69.4,Georgia
+2006,76.9,Georgia
+2007,81.5,Georgia
+2008,80.4,Georgia
+2009,74.3,Georgia
+2010,68.5,Georgia
+2011,60.4,Georgia
+2012,46.4,Georgia
+2101,47.7,Georgia
+2102,49.5,Georgia
+2103,59.9,Georgia
+2104,62.1,Georgia
+2105,69.4,Georgia
+2106,77.0,Georgia
+2107,79.3,Georgia
+2108,80.0,Georgia
+2109,73.8,Georgia
+2110,67.2,Georgia
+2111,52.7,Georgia
+2112,56.6,Georgia
+2201,45.9,Georgia
+2202,52.7,Georgia
+2203,59.0,Georgia
+2204,63.1,Georgia
+2205,73.3,Georgia
+2206,80.1,Georgia
+2207,81.2,Georgia
+2208,79.5,Georgia
+2209,74.0,Georgia
+2210,62.1,Georgia
+2211,57.6,Georgia
+2212,49.1,Georgia
+2301,51.7,Georgia
+2001,27.3,Idaho
+2002,26.2,Idaho
+2003,35.1,Idaho
+2004,41.6,Idaho
+2005,50.6,Idaho
+2006,56.2,Idaho
+2007,64.9,Idaho
+2008,67.1,Idaho
+2009,58.7,Idaho
+2010,45.4,Idaho
+2011,32.7,Idaho
+2012,26.2,Idaho
+2101,26.6,Idaho
+2102,25.4,Idaho
+2103,34.8,Idaho
+2104,42.0,Idaho
+2105,49.8,Idaho
+2106,65.1,Idaho
+2107,71.8,Idaho
+2108,63.9,Idaho
+2109,57.2,Idaho
+2110,45.2,Idaho
+2111,36.7,Idaho
+2112,26.5,Idaho
+2201,23.8,Idaho
+2202,24.5,Idaho
+2203,36.2,Idaho
+2204,37.0,Idaho
+2205,46.1,Idaho
+2206,57.2,Idaho
+2207,69.5,Idaho
+2208,69.4,Idaho
+2209,60.8,Idaho
+2210,48.0,Idaho
+2211,26.1,Idaho
+2212,22.7,Idaho
+2301,23.3,Idaho
+2001,31.8,Illinois
+2002,31.9,Illinois
+2003,44.4,Illinois
+2004,49.6,Illinois
+2005,60.6,Illinois
+2006,73.6,Illinois
+2007,77.3,Illinois
+2008,72.8,Illinois
+2009,65.6,Illinois
+2010,52.0,Illinois
+2011,47.1,Illinois
+2012,33.0,Illinois
+2101,29.5,Illinois
+2102,20.8,Illinois
+2103,46.2,Illinois
+2104,52.5,Illinois
+2105,61.1,Illinois
+2106,74.1,Illinois
+2107,74.6,Illinois
+2108,75.6,Illinois
+2109,69.6,Illinois
+2110,60.2,Illinois
+2111,40.9,Illinois
+2112,40.2,Illinois
+2201,22.3,Illinois
+2202,28.0,Illinois
+2203,43.1,Illinois
+2204,49.6,Illinois
+2205,65.3,Illinois
+2206,73.5,Illinois
+2207,75.8,Illinois
+2208,73.6,Illinois
+2209,67.0,Illinois
+2210,53.3,Illinois
+2211,43.0,Illinois
+2212,30.3,Illinois
+2301,34.6,Illinois
+2001,34.3,Indiana
+2002,32.8,Indiana
+2003,44.6,Indiana
+2004,48.9,Indiana
+2005,59.7,Indiana
+2006,72.1,Indiana
+2007,76.5,Indiana
+2008,72.0,Indiana
+2009,65.2,Indiana
+2010,53.1,Indiana
+2011,46.7,Indiana
+2012,33.6,Indiana
+2101,30.5,Indiana
+2102,23.7,Indiana
+2103,45.8,Indiana
+2104,51.9,Indiana
+2105,59.6,Indiana
+2106,72.7,Indiana
+2107,73.7,Indiana
+2108,75.0,Indiana
+2109,68.4,Indiana
+2110,60.2,Indiana
+2111,40.0,Indiana
+2112,40.5,Indiana
+2201,24.3,Indiana
+2202,29.8,Indiana
+2203,43.7,Indiana
+2204,49.4,Indiana
+2205,64.9,Indiana
+2206,72.3,Indiana
+2207,75.3,Indiana
+2208,72.9,Indiana
+2209,66.1,Indiana
+2210,52.9,Indiana
+2211,43.2,Indiana
+2212,31.7,Indiana
+2301,36.6,Indiana
+2001,23.1,Iowa
+2002,24.9,Iowa
+2003,40.3,Iowa
+2004,46.7,Iowa
+2005,57.6,Iowa
+2006,72.9,Iowa
+2007,75.3,Iowa
+2008,71.9,Iowa
+2009,61.9,Iowa
+2010,46.0,Iowa
+2011,42.0,Iowa
+2012,27.2,Iowa
+2101,23.9,Iowa
+2102,12.5,Iowa
+2103,42.3,Iowa
+2104,49.3,Iowa
+2105,59.0,Iowa
+2106,73.5,Iowa
+2107,73.4,Iowa
+2108,72.9,Iowa
+2109,66.6,Iowa
+2110,55.5,Iowa
+2111,39.2,Iowa
+2112,31.9,Iowa
+2201,14.8,Iowa
+2202,21.2,Iowa
+2203,37.0,Iowa
+2204,43.8,Iowa
+2205,61.3,Iowa
+2206,71.6,Iowa
+2207,74.2,Iowa
+2208,72.0,Iowa
+2209,65.1,Iowa
+2210,50.4,Iowa
+2211,37.0,Iowa
+2212,21.3,Iowa
+2301,24.3,Iowa
+2001,34.0,Kansas
+2002,34.9,Kansas
+2003,47.9,Kansas
+2004,52.7,Kansas
+2005,61.7,Kansas
+2006,77.7,Kansas
+2007,79.2,Kansas
+2008,76.4,Kansas
+2009,66.3,Kansas
+2010,52.6,Kansas
+2011,48.1,Kansas
+2012,35.9,Kansas
+2101,34.0,Kansas
+2102,24.1,Kansas
+2103,48.1,Kansas
+2104,52.5,Kansas
+2105,61.9,Kansas
+2106,75.8,Kansas
+2107,77.7,Kansas
+2108,79.1,Kansas
+2109,73.3,Kansas
+2110,59.1,Kansas
+2111,46.7,Kansas
+2112,41.1,Kansas
+2201,29.9,Kansas
+2202,31.9,Kansas
+2203,44.0,Kansas
+2204,54.2,Kansas
+2205,64.7,Kansas
+2206,75.8,Kansas
+2207,81.1,Kansas
+2208,79.2,Kansas
+2209,72.0,Kansas
+2210,57.8,Kansas
+2211,41.2,Kansas
+2212,30.6,Kansas
+2301,33.1,Kansas
+2001,40.2,Kentucky
+2002,39.7,Kentucky
+2003,51.4,Kentucky
+2004,52.8,Kentucky
+2005,62.2,Kentucky
+2006,72.6,Kentucky
+2007,78.7,Kentucky
+2008,74.8,Kentucky
+2009,68.3,Kentucky
+2010,57.8,Kentucky
+2011,49.9,Kentucky
+2012,37.3,Kentucky
+2101,35.7,Kentucky
+2102,32.3,Kentucky
+2103,50.4,Kentucky
+2104,54.6,Kentucky
+2105,62.4,Kentucky
+2106,73.4,Kentucky
+2107,75.9,Kentucky
+2108,76.6,Kentucky
+2109,68.9,Kentucky
+2110,62.4,Kentucky
+2111,43.4,Kentucky
+2112,47.6,Kentucky
+2201,31.3,Kentucky
+2202,38.5,Kentucky
+2203,49.1,Kentucky
+2204,54.5,Kentucky
+2205,67.6,Kentucky
+2206,74.0,Kentucky
+2207,78.3,Kentucky
+2208,75.4,Kentucky
+2209,68.2,Kentucky
+2210,55.1,Kentucky
+2211,47.0,Kentucky
+2212,37.8,Kentucky
+2301,42.4,Kentucky
+2001,53.7,Louisiana
+2002,54.0,Louisiana
+2003,67.3,Louisiana
+2004,66.6,Louisiana
+2005,73.0,Louisiana
+2006,79.7,Louisiana
+2007,82.8,Louisiana
+2008,82.2,Louisiana
+2009,77.6,Louisiana
+2010,68.2,Louisiana
+2011,61.9,Louisiana
+2012,50.9,Louisiana
+2101,50.6,Louisiana
+2102,47.8,Louisiana
+2103,62.2,Louisiana
+2104,64.7,Louisiana
+2105,72.3,Louisiana
+2106,80.4,Louisiana
+2107,81.8,Louisiana
+2108,82.6,Louisiana
+2109,76.9,Louisiana
+2110,71.7,Louisiana
+2111,56.4,Louisiana
+2112,62.4,Louisiana
+2201,48.2,Louisiana
+2202,51.5,Louisiana
+2203,59.0,Louisiana
+2204,67.5,Louisiana
+2205,77.0,Louisiana
+2206,82.7,Louisiana
+2207,84.0,Louisiana
+2208,81.9,Louisiana
+2209,77.4,Louisiana
+2210,66.3,Louisiana
+2211,58.0,Louisiana
+2212,54.1,Louisiana
+2301,56.0,Louisiana
+2001,20.8,Maine
+2002,20.1,Maine
+2003,29.6,Maine
+2004,37.7,Maine
+2005,51.2,Maine
+2006,62.5,Maine
+2007,68.9,Maine
+2008,65.6,Maine
+2009,56.8,Maine
+2010,44.7,Maine
+2011,37.0,Maine
+2012,27.2,Maine
+2101,21.4,Maine
+2102,18.5,Maine
+2103,29.4,Maine
+2104,43.2,Maine
+2105,52.4,Maine
+2106,64.9,Maine
+2107,63.7,Maine
+2108,68.2,Maine
+2109,59.0,Maine
+2110,50.2,Maine
+2111,35.3,Maine
+2112,24.5,Maine
+2201,11.0,Maine
+2202,19.4,Maine
+2203,29.0,Maine
+2204,40.6,Maine
+2205,54.4,Maine
+2206,60.1,Maine
+2207,67.8,Maine
+2208,67.3,Maine
+2209,57.1,Maine
+2210,49.2,Maine
+2211,37.4,Maine
+2212,27.6,Maine
+2301,24.3,Maine
+2001,39.1,Maryland
+2002,41.0,Maryland
+2003,49.3,Maryland
+2004,51.6,Maryland
+2005,60.5,Maryland
+2006,72.7,Maryland
+2007,80.1,Maryland
+2008,76.6,Maryland
+2009,67.3,Maryland
+2010,59.0,Maryland
+2011,50.9,Maryland
+2012,38.3,Maryland
+2101,35.4,Maryland
+2102,34.2,Maryland
+2103,47.2,Maryland
+2104,55.0,Maryland
+2105,62.2,Maryland
+2106,73.1,Maryland
+2107,77.2,Maryland
+2108,77.1,Maryland
+2109,69.6,Maryland
+2110,62.9,Maryland
+2111,44.4,Maryland
+2112,43.8,Maryland
+2201,30.9,Maryland
+2202,38.5,Maryland
+2203,46.6,Maryland
+2204,53.1,Maryland
+2205,64.5,Maryland
+2206,72.1,Maryland
+2207,77.7,Maryland
+2208,76.6,Maryland
+2209,68.4,Maryland
+2210,54.6,Maryland
+2211,48.7,Maryland
+2212,36.5,Maryland
+2301,42.0,Maryland
+2001,32.0,Massachusetts
+2002,32.4,Massachusetts
+2003,40.2,Massachusetts
+2004,43.1,Massachusetts
+2005,56.2,Massachusetts
+2006,67.6,Massachusetts
+2007,74.6,Massachusetts
+2008,71.7,Massachusetts
+2009,62.8,Massachusetts
+2010,52.4,Massachusetts
+2011,44.7,Massachusetts
+2012,33.1,Massachusetts
+2101,28.8,Massachusetts
+2102,27.6,Massachusetts
+2103,38.3,Massachusetts
+2104,47.8,Massachusetts
+2105,57.6,Massachusetts
+2106,69.2,Massachusetts
+2107,69.8,Massachusetts
+2108,72.7,Massachusetts
+2109,64.8,Massachusetts
+2110,56.3,Massachusetts
+2111,40.8,Massachusetts
+2112,36.0,Massachusetts
+2201,23.4,Massachusetts
+2202,29.8,Massachusetts
+2203,38.0,Massachusetts
+2204,46.9,Massachusetts
+2205,59.8,Massachusetts
+2206,65.5,Massachusetts
+2207,73.3,Massachusetts
+2208,73.8,Massachusetts
+2209,62.4,Massachusetts
+2210,52.4,Massachusetts
+2211,44.6,Massachusetts
+2212,33.2,Massachusetts
+2301,35.3,Massachusetts
+2001,27.0,Michigan
+2002,23.7,Michigan
+2003,35.0,Michigan
+2004,40.2,Michigan
+2005,53.2,Michigan
+2006,66.0,Michigan
+2007,72.5,Michigan
+2008,68.6,Michigan
+2009,58.2,Michigan
+2010,44.4,Michigan
+2011,41.1,Michigan
+2012,28.6,Michigan
+2101,25.0,Michigan
+2102,17.4,Michigan
+2103,36.8,Michigan
+2104,45.1,Michigan
+2105,54.0,Michigan
+2106,67.8,Michigan
+2107,68.7,Michigan
+2108,71.0,Michigan
+2109,61.4,Michigan
+2110,55.2,Michigan
+2111,36.3,Michigan
+2112,30.1,Michigan
+2201,15.3,Michigan
+2202,19.4,Michigan
+2203,31.0,Michigan
+2204,40.1,Michigan
+2205,57.5,Michigan
+2206,64.9,Michigan
+2207,69.2,Michigan
+2208,68.2,Michigan
+2209,60.9,Michigan
+2210,48.3,Michigan
+2211,38.6,Michigan
+2212,26.9,Michigan
+2301,28.2,Michigan
+2001,14.1,Minnesota
+2002,14.0,Minnesota
+2003,30.4,Minnesota
+2004,39.4,Minnesota
+2005,53.5,Minnesota
+2006,67.7,Minnesota
+2007,71.3,Minnesota
+2008,68.2,Minnesota
+2009,56.5,Minnesota
+2010,38.9,Minnesota
+2011,33.9,Minnesota
+2012,21.0,Minnesota
+2101,18.2,Minnesota
+2102,6.5,Minnesota
+2103,35.6,Minnesota
+2104,42.3,Minnesota
+2105,55.1,Minnesota
+2106,69.9,Minnesota
+2107,71.1,Minnesota
+2108,69.4,Minnesota
+2109,61.6,Minnesota
+2110,51.5,Minnesota
+2111,32.2,Minnesota
+2112,18.2,Minnesota
+2201,3.6,Minnesota
+2202,6.5,Minnesota
+2203,26.2,Minnesota
+2204,35.6,Minnesota
+2205,55.4,Minnesota
+2206,66.2,Minnesota
+2207,69.7,Minnesota
+2208,67.3,Minnesota
+2209,60.2,Minnesota
+2210,47.0,Minnesota
+2211,30.1,Minnesota
+2212,12.6,Minnesota
+2301,15.4,Minnesota
+2001,50.1,Mississippi
+2002,51.1,Mississippi
+2003,64.1,Mississippi
+2004,62.9,Mississippi
+2005,70.3,Mississippi
+2006,78.1,Mississippi
+2007,82.1,Mississippi
+2008,80.2,Mississippi
+2009,75.3,Mississippi
+2010,65.8,Mississippi
+2011,58.4,Mississippi
+2012,47.0,Mississippi
+2101,46.6,Mississippi
+2102,44.2,Mississippi
+2103,60.0,Mississippi
+2104,61.8,Mississippi
+2105,69.9,Mississippi
+2106,78.1,Mississippi
+2107,80.4,Mississippi
+2108,80.8,Mississippi
+2109,74.8,Mississippi
+2110,68.3,Mississippi
+2111,52.7,Mississippi
+2112,58.6,Mississippi
+2201,44.4,Mississippi
+2202,48.9,Mississippi
+2203,57.1,Mississippi
+2204,64.0,Mississippi
+2205,75.1,Mississippi
+2206,81.4,Mississippi
+2207,83.0,Mississippi
+2208,80.2,Mississippi
+2209,75.1,Mississippi
+2210,63.1,Mississippi
+2211,55.0,Mississippi
+2212,50.2,Mississippi
+2301,52.3,Mississippi
+2001,34.5,Missouri
+2002,35.4,Missouri
+2003,48.8,Missouri
+2004,53.1,Missouri
+2005,62.0,Missouri
+2006,75.1,Missouri
+2007,79.2,Missouri
+2008,74.2,Missouri
+2009,67.3,Missouri
+2010,53.6,Missouri
+2011,49.6,Missouri
+2012,36.3,Missouri
+2101,33.6,Missouri
+2102,24.4,Missouri
+2103,49.9,Missouri
+2104,54.2,Missouri
+2105,62.3,Missouri
+2106,74.9,Missouri
+2107,76.7,Missouri
+2108,77.4,Missouri
+2109,71.5,Missouri
+2110,60.5,Missouri
+2111,45.5,Missouri
+2112,44.7,Missouri
+2201,28.4,Missouri
+2202,32.6,Missouri
+2203,46.2,Missouri
+2204,53.1,Missouri
+2205,65.9,Missouri
+2206,75.3,Missouri
+2207,79.7,Missouri
+2208,76.5,Missouri
+2209,69.5,Missouri
+2210,56.0,Missouri
+2211,44.3,Missouri
+2212,33.1,Missouri
+2301,37.3,Missouri
+2001,23.4,Montana
+2002,25.6,Montana
+2003,31.6,Montana
+2004,38.3,Montana
+2005,50.6,Montana
+2006,59.3,Montana
+2007,65.6,Montana
+2008,67.4,Montana
+2009,57.0,Montana
+2010,39.3,Montana
+2011,32.8,Montana
+2012,28.5,Montana
+2101,26.7,Montana
+2102,13.7,Montana
+2103,36.1,Montana
+2104,40.5,Montana
+2105,48.6,Montana
+2106,65.3,Montana
+2107,72.5,Montana
+2108,64.7,Montana
+2109,58.3,Montana
+2110,45.6,Montana
+2111,36.3,Montana
+2112,19.3,Montana
+2201,22.9,Montana
+2202,22.4,Montana
+2203,33.5,Montana
+2204,35.1,Montana
+2205,48.5,Montana
+2206,58.5,Montana
+2207,69.1,Montana
+2208,69.7,Montana
+2209,60.7,Montana
+2210,47.1,Montana
+2211,22.6,Montana
+2212,14.6,Montana
+2301,22.9,Montana
+2001,27.2,Nebraska
+2002,29.6,Nebraska
+2003,41.1,Nebraska
+2004,46.1,Nebraska
+2005,56.8,Nebraska
+2006,73.5,Nebraska
+2007,75.3,Nebraska
+2008,74.0,Nebraska
+2009,62.7,Nebraska
+2010,46.4,Nebraska
+2011,42.6,Nebraska
+2012,31.3,Nebraska
+2101,29.3,Nebraska
+2102,16.5,Nebraska
+2103,42.6,Nebraska
+2104,47.0,Nebraska
+2105,57.9,Nebraska
+2106,72.8,Nebraska
+2107,75.0,Nebraska
+2108,74.3,Nebraska
+2109,67.6,Nebraska
+2110,53.2,Nebraska
+2111,42.6,Nebraska
+2112,33.8,Nebraska
+2201,25.6,Nebraska
+2202,26.7,Nebraska
+2203,38.0,Nebraska
+2204,46.5,Nebraska
+2205,58.7,Nebraska
+2206,71.4,Nebraska
+2207,76.4,Nebraska
+2208,74.9,Nebraska
+2209,67.5,Nebraska
+2210,52.2,Nebraska
+2211,34.3,Nebraska
+2212,22.7,Nebraska
+2301,24.8,Nebraska
+2001,35.3,Nevada
+2002,36.3,Nevada
+2003,40.5,Nevada
+2004,48.8,Nevada
+2005,58.8,Nevada
+2006,65.0,Nevada
+2007,74.2,Nevada
+2008,75.6,Nevada
+2009,66.6,Nevada
+2010,55.3,Nevada
+2011,40.5,Nevada
+2012,32.4,Nevada
+2101,33.7,Nevada
+2102,35.6,Nevada
+2103,39.2,Nevada
+2104,49.3,Nevada
+2105,57.2,Nevada
+2106,72.6,Nevada
+2107,77.8,Nevada
+2108,72.4,Nevada
+2109,65.5,Nevada
+2110,49.6,Nevada
+2111,45.2,Nevada
+2112,32.4,Nevada
+2201,34.2,Nevada
+2202,34.6,Nevada
+2203,43.3,Nevada
+2204,47.2,Nevada
+2205,54.4,Nevada
+2206,67.0,Nevada
+2207,76.2,Nevada
+2208,74.3,Nevada
+2209,67.7,Nevada
+2210,54.2,Nevada
+2211,34.0,Nevada
+2212,31.4,Nevada
+2301,29.3,Nevada
+2001,25.2,New Hampshire
+2002,24.2,New Hampshire
+2003,34.2,New Hampshire
+2004,39.6,New Hampshire
+2005,53.4,New Hampshire
+2006,64.0,New Hampshire
+2007,71.1,New Hampshire
+2008,66.5,New Hampshire
+2009,58.5,New Hampshire
+2010,47.0,New Hampshire
+2011,38.5,New Hampshire
+2012,28.0,New Hampshire
+2101,23.0,New Hampshire
+2102,20.6,New Hampshire
+2103,32.4,New Hampshire
+2104,44.0,New Hampshire
+2105,54.5,New Hampshire
+2106,66.1,New Hampshire
+2107,65.6,New Hampshire
+2108,69.2,New Hampshire
+2109,60.5,New Hampshire
+2110,52.1,New Hampshire
+2111,35.9,New Hampshire
+2112,28.9,New Hampshire
+2201,14.9,New Hampshire
+2202,23.5,New Hampshire
+2203,32.0,New Hampshire
+2204,42.5,New Hampshire
+2205,57.1,New Hampshire
+2206,61.7,New Hampshire
+2207,68.6,New Hampshire
+2208,69.7,New Hampshire
+2209,58.0,New Hampshire
+2210,48.6,New Hampshire
+2211,39.4,New Hampshire
+2212,28.3,New Hampshire
+2301,29.4,New Hampshire
+2001,37.3,New Jersey
+2002,39.1,New Jersey
+2003,46.3,New Jersey
+2004,48.7,New Jersey
+2005,59.1,New Jersey
+2006,71.5,New Jersey
+2007,78.8,New Jersey
+2008,75.5,New Jersey
+2009,66.8,New Jersey
+2010,57.0,New Jersey
+2011,49.2,New Jersey
+2012,37.0,New Jersey
+2101,33.7,New Jersey
+2102,32.0,New Jersey
+2103,44.0,New Jersey
+2104,52.6,New Jersey
+2105,60.8,New Jersey
+2106,71.8,New Jersey
+2107,75.7,New Jersey
+2108,75.9,New Jersey
+2109,68.7,New Jersey
+2110,61.0,New Jersey
+2111,43.6,New Jersey
+2112,41.2,New Jersey
+2201,28.5,New Jersey
+2202,35.4,New Jersey
+2203,43.7,New Jersey
+2204,51.0,New Jersey
+2205,63.1,New Jersey
+2206,69.8,New Jersey
+2207,77.7,New Jersey
+2208,77.0,New Jersey
+2209,67.4,New Jersey
+2210,54.0,New Jersey
+2211,47.5,New Jersey
+2212,35.5,New Jersey
+2301,41.0,New Jersey
+2001,37.1,New Mexico
+2002,38.5,New Mexico
+2003,48.0,New Mexico
+2004,54.0,New Mexico
+2005,65.1,New Mexico
+2006,72.5,New Mexico
+2007,76.6,New Mexico
+2008,76.2,New Mexico
+2009,65.0,New Mexico
+2010,56.6,New Mexico
+2011,47.5,New Mexico
+2012,35.0,New Mexico
+2101,35.1,New Mexico
+2102,37.3,New Mexico
+2103,44.8,New Mexico
+2104,53.2,New Mexico
+2105,62.7,New Mexico
+2106,73.1,New Mexico
+2107,73.3,New Mexico
+2108,72.2,New Mexico
+2109,68.3,New Mexico
+2110,55.6,New Mexico
+2111,47.6,New Mexico
+2112,42.0,New Mexico
+2201,35.7,New Mexico
+2202,35.0,New Mexico
+2203,44.4,New Mexico
+2204,55.3,New Mexico
+2205,64.8,New Mexico
+2206,72.6,New Mexico
+2207,76.2,New Mexico
+2208,71.8,New Mexico
+2209,68.0,New Mexico
+2210,53.9,New Mexico
+2211,40.3,New Mexico
+2212,37.4,New Mexico
+2301,35.8,New Mexico
+2001,27.7,New York
+2002,26.6,New York
+2003,37.2,New York
+2004,41.1,New York
+2005,54.2,New York
+2006,65.2,New York
+2007,72.9,New York
+2008,68.6,New York
+2009,59.6,New York
+2010,49.0,New York
+2011,41.9,New York
+2012,29.8,New York
+2101,24.0,New York
+2102,21.7,New York
+2103,35.0,New York
+2104,45.7,New York
+2105,54.7,New York
+2106,67.1,New York
+2107,67.7,New York
+2108,70.4,New York
+2109,61.7,New York
+2110,54.8,New York
+2111,37.0,New York
+2112,32.8,New York
+2201,15.8,New York
+2202,23.7,New York
+2203,33.7,New York
+2204,43.8,New York
+2205,58.5,New York
+2206,63.8,New York
+2207,69.7,New York
+2208,70.0,New York
+2209,60.5,New York
+2210,49.0,New York
+2211,41.0,New York
+2212,29.0,New York
+2301,30.6,New York
+2001,46.0,North Carolina
+2002,47.0,North Carolina
+2003,55.9,North Carolina
+2004,57.4,North Carolina
+2005,63.6,North Carolina
+2006,73.2,North Carolina
+2007,79.6,North Carolina
+2008,77.5,North Carolina
+2009,69.7,North Carolina
+2010,63.0,North Carolina
+2011,54.8,North Carolina
+2012,42.2,North Carolina
+2101,40.8,North Carolina
+2102,42.2,North Carolina
+2103,53.1,North Carolina
+2104,58.6,North Carolina
+2105,65.5,North Carolina
+2106,73.8,North Carolina
+2107,77.1,North Carolina
+2108,77.8,North Carolina
+2109,70.6,North Carolina
+2110,64.4,North Carolina
+2111,48.1,North Carolina
+2112,50.8,North Carolina
+2201,38.8,North Carolina
+2202,46.1,North Carolina
+2203,53.5,North Carolina
+2204,58.8,North Carolina
+2205,69.0,North Carolina
+2206,75.2,North Carolina
+2207,79.1,North Carolina
+2208,76.7,North Carolina
+2209,70.4,North Carolina
+2210,57.6,North Carolina
+2211,53.4,North Carolina
+2212,41.9,North Carolina
+2301,46.8,North Carolina
+2001,12.9,North Dakota
+2002,17.8,North Dakota
+2003,29.8,North Dakota
+2004,37.6,North Dakota
+2005,52.5,North Dakota
+2006,66.9,North Dakota
+2007,70.3,North Dakota
+2008,69.2,North Dakota
+2009,57.1,North Dakota
+2010,37.8,North Dakota
+2011,31.8,North Dakota
+2012,23.4,North Dakota
+2101,21.0,North Dakota
+2102,5.8,North Dakota
+2103,35.9,North Dakota
+2104,40.7,North Dakota
+2105,52.8,North Dakota
+2106,69.3,North Dakota
+2107,73.8,North Dakota
+2108,68.9,North Dakota
+2109,62.2,North Dakota
+2110,48.6,North Dakota
+2111,32.6,North Dakota
+2112,14.0,North Dakota
+2201,8.6,North Dakota
+2202,9.4,North Dakota
+2203,26.8,North Dakota
+2204,33.5,North Dakota
+2205,52.9,North Dakota
+2206,64.6,North Dakota
+2207,70.6,North Dakota
+2208,69.5,North Dakota
+2209,60.9,North Dakota
+2210,46.0,North Dakota
+2211,23.2,North Dakota
+2212,6.7,North Dakota
+2301,13.2,North Dakota
+2001,34.9,Ohio
+2002,32.8,Ohio
+2003,44.7,Ohio
+2004,47.8,Ohio
+2005,58.4,Ohio
+2006,70.4,Ohio
+2007,76.9,Ohio
+2008,72.2,Ohio
+2009,64.7,Ohio
+2010,53.5,Ohio
+2011,46.4,Ohio
+2012,33.6,Ohio
+2101,30.9,Ohio
+2102,25.2,Ohio
+2103,44.8,Ohio
+2104,51.4,Ohio
+2105,58.8,Ohio
+2106,71.5,Ohio
+2107,73.0,Ohio
+2108,74.6,Ohio
+2109,66.9,Ohio
+2110,60.3,Ohio
+2111,40.5,Ohio
+2112,40.2,Ohio
+2201,24.0,Ohio
+2202,30.7,Ohio
+2203,43.2,Ohio
+2204,48.7,Ohio
+2205,63.8,Ohio
+2206,70.6,Ohio
+2207,74.0,Ohio
+2208,72.2,Ohio
+2209,65.2,Ohio
+2210,52.0,Ohio
+2211,44.0,Ohio
+2212,32.7,Ohio
+2301,36.8,Ohio
+2001,42.2,Oklahoma
+2002,41.8,Oklahoma
+2003,55.5,Oklahoma
+2004,57.9,Oklahoma
+2005,67.2,Oklahoma
+2006,78.8,Oklahoma
+2007,82.6,Oklahoma
+2008,79.4,Oklahoma
+2009,70.3,Oklahoma
+2010,58.3,Oklahoma
+2011,53.5,Oklahoma
+2012,41.0,Oklahoma
+2101,39.7,Oklahoma
+2102,31.3,Oklahoma
+2103,53.9,Oklahoma
+2104,57.4,Oklahoma
+2105,65.9,Oklahoma
+2106,77.4,Oklahoma
+2107,80.0,Oklahoma
+2108,81.3,Oklahoma
+2109,76.7,Oklahoma
+2110,64.4,Oklahoma
+2111,51.2,Oklahoma
+2112,50.4,Oklahoma
+2201,37.0,Oklahoma
+2202,38.6,Oklahoma
+2203,50.5,Oklahoma
+2204,61.0,Oklahoma
+2205,70.5,Oklahoma
+2206,79.4,Oklahoma
+2207,86.5,Oklahoma
+2208,82.5,Oklahoma
+2209,75.9,Oklahoma
+2210,62.0,Oklahoma
+2211,47.3,Oklahoma
+2212,40.0,Oklahoma
+2301,42.2,Oklahoma
+2001,34.9,Oregon
+2002,35.8,Oregon
+2003,38.8,Oregon
+2004,46.3,Oregon
+2005,52.6,Oregon
+2006,57.9,Oregon
+2007,66.0,Oregon
+2008,67.2,Oregon
+2009,62.6,Oregon
+2010,51.3,Oregon
+2011,38.3,Oregon
+2012,34.2,Oregon
+2101,34.8,Oregon
+2102,33.6,Oregon
+2103,39.0,Oregon
+2104,46.6,Oregon
+2105,52.0,Oregon
+2106,65.2,Oregon
+2107,71.4,Oregon
+2108,66.4,Oregon
+2109,59.4,Oregon
+2110,47.6,Oregon
+2111,41.9,Oregon
+2112,32.4,Oregon
+2201,34.8,Oregon
+2202,35.8,Oregon
+2203,41.8,Oregon
+2204,40.2,Oregon
+2205,47.7,Oregon
+2206,58.1,Oregon
+2207,69.6,Oregon
+2208,70.6,Oregon
+2209,62.6,Oregon
+2210,54.3,Oregon
+2211,33.1,Oregon
+2212,30.3,Oregon
+2301,32.1,Oregon
+2001,32.2,Pennsylvania
+2002,33.3,Pennsylvania
+2003,42.5,Pennsylvania
+2004,45.1,Pennsylvania
+2005,56.0,Pennsylvania
+2006,67.2,Pennsylvania
+2007,74.9,Pennsylvania
+2008,71.6,Pennsylvania
+2009,62.1,Pennsylvania
+2010,52.2,Pennsylvania
+2011,44.8,Pennsylvania
+2012,32.1,Pennsylvania
+2101,29.4,Pennsylvania
+2102,26.6,Pennsylvania
+2103,40.7,Pennsylvania
+2104,49.4,Pennsylvania
+2105,57.0,Pennsylvania
+2106,68.6,Pennsylvania
+2107,71.2,Pennsylvania
+2108,72.6,Pennsylvania
+2109,64.3,Pennsylvania
+2110,57.7,Pennsylvania
+2111,39.0,Pennsylvania
+2112,37.6,Pennsylvania
+2201,22.5,Pennsylvania
+2202,29.7,Pennsylvania
+2203,39.4,Pennsylvania
+2204,47.0,Pennsylvania
+2205,60.5,Pennsylvania
+2206,67.1,Pennsylvania
+2207,72.4,Pennsylvania
+2208,71.4,Pennsylvania
+2209,63.0,Pennsylvania
+2210,49.4,Pennsylvania
+2211,42.8,Pennsylvania
+2212,30.6,Pennsylvania
+2301,35.8,Pennsylvania
+2001,35.3,Rhode Island
+2002,35.4,Rhode Island
+2003,42.6,Rhode Island
+2004,44.1,Rhode Island
+2005,56.6,Rhode Island
+2006,68.1,Rhode Island
+2007,75.4,Rhode Island
+2008,73.8,Rhode Island
+2009,64.5,Rhode Island
+2010,54.6,Rhode Island
+2011,47.5,Rhode Island
+2012,35.7,Rhode Island
+2101,31.3,Rhode Island
+2102,30.9,Rhode Island
+2103,40.2,Rhode Island
+2104,48.8,Rhode Island
+2105,58.0,Rhode Island
+2106,69.6,Rhode Island
+2107,71.2,Rhode Island
+2108,73.6,Rhode Island
+2109,66.4,Rhode Island
+2110,58.4,Rhode Island
+2111,42.9,Rhode Island
+2112,38.6,Rhode Island
+2201,26.9,Rhode Island
+2202,32.4,Rhode Island
+2203,40.5,Rhode Island
+2204,48.5,Rhode Island
+2205,60.1,Rhode Island
+2206,66.3,Rhode Island
+2207,74.2,Rhode Island
+2208,74.8,Rhode Island
+2209,63.6,Rhode Island
+2210,54.4,Rhode Island
+2211,46.6,Rhode Island
+2212,35.2,Rhode Island
+2301,37.8,Rhode Island
+2001,50.3,South Carolina
+2002,50.9,South Carolina
+2003,60.4,South Carolina
+2004,62.1,South Carolina
+2005,68.0,South Carolina
+2006,76.1,South Carolina
+2007,81.9,South Carolina
+2008,80.1,South Carolina
+2009,73.3,South Carolina
+2010,67.4,South Carolina
+2011,59.3,South Carolina
+2012,45.6,South Carolina
+2101,46.0,South Carolina
+2102,47.2,South Carolina
+2103,57.6,South Carolina
+2104,62.0,South Carolina
+2105,69.1,South Carolina
+2106,76.8,South Carolina
+2107,79.4,South Carolina
+2108,80.1,South Carolina
+2109,73.5,South Carolina
+2110,66.8,South Carolina
+2111,51.6,South Carolina
+2112,54.6,South Carolina
+2201,43.6,South Carolina
+2202,51.9,South Carolina
+2203,57.6,South Carolina
+2204,62.3,South Carolina
+2205,72.8,South Carolina
+2206,78.9,South Carolina
+2207,81.3,South Carolina
+2208,79.0,South Carolina
+2209,73.6,South Carolina
+2210,60.8,South Carolina
+2211,56.9,South Carolina
+2212,46.0,South Carolina
+2301,50.5,South Carolina
+2001,20.1,South Dakota
+2002,23.5,South Dakota
+2003,36.4,South Dakota
+2004,42.0,South Dakota
+2005,54.2,South Dakota
+2006,70.3,South Dakota
+2007,73.5,South Dakota
+2008,72.6,South Dakota
+2009,60.4,South Dakota
+2010,41.2,South Dakota
+2011,38.6,South Dakota
+2012,28.3,South Dakota
+2101,26.5,South Dakota
+2102,12.8,South Dakota
+2103,39.4,South Dakota
+2104,43.6,South Dakota
+2105,55.0,South Dakota
+2106,72.3,South Dakota
+2107,75.3,South Dakota
+2108,72.5,South Dakota
+2109,65.0,South Dakota
+2110,51.2,South Dakota
+2111,38.2,South Dakota
+2112,24.5,South Dakota
+2201,19.1,South Dakota
+2202,19.9,South Dakota
+2203,33.3,South Dakota
+2204,39.6,South Dakota
+2205,55.4,South Dakota
+2206,67.7,South Dakota
+2207,74.6,South Dakota
+2208,73.2,South Dakota
+2209,65.4,South Dakota
+2210,49.4,South Dakota
+2211,29.0,South Dakota
+2212,15.0,South Dakota
+2301,20.0,South Dakota
+2001,43.0,Tennessee
+2002,43.3,Tennessee
+2003,54.7,Tennessee
+2004,55.4,Tennessee
+2005,64.0,Tennessee
+2006,73.5,Tennessee
+2007,79.2,Tennessee
+2008,76.4,Tennessee
+2009,69.9,Tennessee
+2010,60.4,Tennessee
+2011,51.9,Tennessee
+2012,39.5,Tennessee
+2101,39.7,Tennessee
+2102,37.4,Tennessee
+2103,53.6,Tennessee
+2104,56.2,Tennessee
+2105,64.1,Tennessee
+2106,74.0,Tennessee
+2107,77.0,Tennessee
+2108,77.2,Tennessee
+2109,69.7,Tennessee
+2110,63.4,Tennessee
+2111,45.6,Tennessee
+2112,50.4,Tennessee
+2201,35.5,Tennessee
+2202,41.8,Tennessee
+2203,51.6,Tennessee
+2204,56.8,Tennessee
+2205,69.0,Tennessee
+2206,75.7,Tennessee
+2207,80.1,Tennessee
+2208,76.3,Tennessee
+2209,69.4,Tennessee
+2210,56.3,Tennessee
+2211,49.0,Tennessee
+2212,40.8,Tennessee
+2301,44.9,Tennessee
+2001,50.7,Texas
+2002,49.4,Texas
+2003,63.2,Texas
+2004,65.1,Texas
+2005,74.6,Texas
+2006,80.7,Texas
+2007,85.2,Texas
+2008,84.4,Texas
+2009,74.1,Texas
+2010,65.9,Texas
+2011,60.6,Texas
+2012,48.5,Texas
+2101,47.3,Texas
+2102,44.0,Texas
+2103,59.4,Texas
+2104,63.7,Texas
+2105,71.9,Texas
+2106,80.3,Texas
+2107,80.9,Texas
+2108,81.9,Texas
+2109,78.2,Texas
+2110,69.8,Texas
+2111,57.3,Texas
+2112,59.1,Texas
+2201,45.8,Texas
+2202,45.8,Texas
+2203,57.1,Texas
+2204,68.8,Texas
+2205,78.0,Texas
+2206,83.8,Texas
+2207,87.2,Texas
+2208,83.3,Texas
+2209,77.8,Texas
+2210,66.4,Texas
+2211,53.9,Texas
+2212,50.0,Texas
+2301,51.6,Texas
+2001,28.7,Utah
+2002,31.1,Utah
+2003,40.8,Utah
+2004,47.4,Utah
+2005,59.0,Utah
+2006,65.4,Utah
+2007,73.7,Utah
+2008,75.8,Utah
+2009,63.9,Utah
+2010,52.8,Utah
+2011,38.8,Utah
+2012,27.2,Utah
+2101,28.1,Utah
+2102,32.2,Utah
+2103,38.4,Utah
+2104,47.4,Utah
+2105,57.1,Utah
+2106,71.9,Utah
+2107,76.2,Utah
+2108,70.9,Utah
+2109,64.4,Utah
+2110,47.9,Utah
+2111,42.5,Utah
+2112,31.1,Utah
+2201,29.3,Utah
+2202,29.5,Utah
+2203,40.1,Utah
+2204,46.3,Utah
+2205,54.8,Utah
+2206,67.7,Utah
+2207,75.4,Utah
+2208,72.3,Utah
+2209,66.6,Utah
+2210,50.9,Utah
+2211,32.2,Utah
+2212,28.0,Utah
+2301,26.0,Utah
+2001,23.4,Vermont
+2002,22.4,Vermont
+2003,33.0,Vermont
+2004,38.8,Vermont
+2005,52.6,Vermont
+2006,62.8,Vermont
+2007,70.9,Vermont
+2008,65.2,Vermont
+2009,57.2,Vermont
+2010,46.4,Vermont
+2011,37.9,Vermont
+2012,27.3,Vermont
+2101,20.5,Vermont
+2102,18.8,Vermont
+2103,30.9,Vermont
+2104,43.2,Vermont
+2105,53.3,Vermont
+2106,65.4,Vermont
+2107,64.9,Vermont
+2108,68.8,Vermont
+2109,59.5,Vermont
+2110,51.6,Vermont
+2111,34.3,Vermont
+2112,28.2,Vermont
+2201,12.0,Vermont
+2202,20.8,Vermont
+2203,30.6,Vermont
+2204,41.3,Vermont
+2205,56.8,Vermont
+2206,61.2,Vermont
+2207,67.3,Vermont
+2208,68.3,Vermont
+2209,57.6,Vermont
+2210,47.9,Vermont
+2211,38.5,Vermont
+2212,27.0,Vermont
+2301,27.3,Vermont
+2001,40.6,Virginia
+2002,42.4,Virginia
+2003,51.7,Virginia
+2004,53.3,Virginia
+2005,60.5,Virginia
+2006,71.3,Virginia
+2007,78.7,Virginia
+2008,75.5,Virginia
+2009,66.4,Virginia
+2010,59.0,Virginia
+2011,51.3,Virginia
+2012,38.4,Virginia
+2101,36.6,Virginia
+2102,36.6,Virginia
+2103,48.5,Virginia
+2104,55.3,Virginia
+2105,62.3,Virginia
+2106,72.0,Virginia
+2107,75.9,Virginia
+2108,76.4,Virginia
+2109,68.4,Virginia
+2110,62.3,Virginia
+2111,44.5,Virginia
+2112,45.8,Virginia
+2201,32.8,Virginia
+2202,40.7,Virginia
+2203,48.9,Virginia
+2204,55.1,Virginia
+2205,65.0,Virginia
+2206,72.1,Virginia
+2207,76.8,Virginia
+2208,74.7,Virginia
+2209,67.8,Virginia
+2210,53.8,Virginia
+2211,49.0,Virginia
+2212,37.2,Virginia
+2301,42.7,Virginia
+2001,34.2,Washington
+2002,35.6,Washington
+2003,38.3,Washington
+2004,46.0,Washington
+2005,53.3,Washington
+2006,57.9,Washington
+2007,64.8,Washington
+2008,65.7,Washington
+2009,61.2,Washington
+2010,48.4,Washington
+2011,37.6,Washington
+2012,33.7,Washington
+2101,34.6,Washington
+2102,31.4,Washington
+2103,39.7,Washington
+2104,46.8,Washington
+2105,52.6,Washington
+2106,64.6,Washington
+2107,69.7,Washington
+2108,65.8,Washington
+2109,58.0,Washington
+2110,46.6,Washington
+2111,39.9,Washington
+2112,29.4,Washington
+2201,31.3,Washington
+2202,33.7,Washington
+2203,41.5,Washington
+2204,40.7,Washington
+2205,48.4,Washington
+2206,57.9,Washington
+2207,68.0,Washington
+2208,69.8,Washington
+2209,61.6,Washington
+2210,53.6,Washington
+2211,32.1,Washington
+2212,26.3,Washington
+2301,33.3,Washington
+2001,37.3,West Virginia
+2002,38.0,West Virginia
+2003,47.8,West Virginia
+2004,48.9,West Virginia
+2005,57.8,West Virginia
+2006,68.1,West Virginia
+2007,75.6,West Virginia
+2008,72.5,West Virginia
+2009,64.2,West Virginia
+2010,55.4,West Virginia
+2011,47.5,West Virginia
+2012,34.3,West Virginia
+2101,32.6,West Virginia
+2102,31.6,West Virginia
+2103,45.8,West Virginia
+2104,51.3,West Virginia
+2105,58.7,West Virginia
+2106,69.2,West Virginia
+2107,72.2,West Virginia
+2108,73.9,West Virginia
+2109,65.5,West Virginia
+2110,59.4,West Virginia
+2111,40.9,West Virginia
+2112,42.6,West Virginia
+2201,27.3,West Virginia
+2202,35.4,West Virginia
+2203,44.6,West Virginia
+2204,50.8,West Virginia
+2205,63.0,West Virginia
+2206,68.8,West Virginia
+2207,73.0,West Virginia
+2208,71.8,West Virginia
+2209,64.2,West Virginia
+2210,50.3,West Virginia
+2211,45.0,West Virginia
+2212,34.6,West Virginia
+2301,39.0,West Virginia
+2001,21.5,Wisconsin
+2002,19.2,Wisconsin
+2003,34.3,Wisconsin
+2004,40.7,Wisconsin
+2005,54.1,Wisconsin
+2006,66.5,Wisconsin
+2007,71.9,Wisconsin
+2008,68.3,Wisconsin
+2009,57.3,Wisconsin
+2010,41.3,Wisconsin
+2011,38.6,Wisconsin
+2012,24.2,Wisconsin
+2101,20.3,Wisconsin
+2102,10.7,Wisconsin
+2103,36.9,Wisconsin
+2104,45.0,Wisconsin
+2105,54.9,Wisconsin
+2106,69.4,Wisconsin
+2107,69.4,Wisconsin
+2108,69.2,Wisconsin
+2109,61.2,Wisconsin
+2110,53.5,Wisconsin
+2111,33.9,Wisconsin
+2112,24.8,Wisconsin
+2201,9.2,Wisconsin
+2202,14.9,Wisconsin
+2203,29.5,Wisconsin
+2204,39.0,Wisconsin
+2205,57.2,Wisconsin
+2206,65.4,Wisconsin
+2207,69.3,Wisconsin
+2208,67.4,Wisconsin
+2209,60.3,Wisconsin
+2210,47.2,Wisconsin
+2211,35.3,Wisconsin
+2212,19.1,Wisconsin
+2301,23.0,Wisconsin
+2001,23.8,Wyoming
+2002,20.2,Wyoming
+2003,33.1,Wyoming
+2004,37.6,Wyoming
+2005,50.3,Wyoming
+2006,59.7,Wyoming
+2007,66.6,Wyoming
+2008,67.7,Wyoming
+2009,55.5,Wyoming
+2010,41.2,Wyoming
+2011,33.1,Wyoming
+2012,24.5,Wyoming
+2101,23.4,Wyoming
+2102,17.4,Wyoming
+2103,32.2,Wyoming
+2104,38.0,Wyoming
+2105,48.8,Wyoming
+2106,64.9,Wyoming
+2107,70.1,Wyoming
+2108,64.1,Wyoming
+2109,58.1,Wyoming
+2110,43.9,Wyoming
+2111,36.6,Wyoming
+2112,26.2,Wyoming
+2201,23.0,Wyoming
+2202,20.8,Wyoming
+2203,31.9,Wyoming
+2204,36.2,Wyoming
+2205,46.8,Wyoming
+2206,59.0,Wyoming
+2207,69.0,Wyoming
+2208,67.3,Wyoming
+2209,59.8,Wyoming
+2210,44.6,Wyoming
+2211,24.7,Wyoming
+2212,19.2,Wyoming
+2301,19.3,Wyoming
